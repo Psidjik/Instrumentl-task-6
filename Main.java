@@ -3,5 +3,6 @@ public class Main {
         System.out.println("HELLO");
         String av;
         String aas;
+        String MN;
     }
 }
