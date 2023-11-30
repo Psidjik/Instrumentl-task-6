@@ -5,5 +5,9 @@ public class Main {
         String aas;
         String MN;
         String asd;
+        String a;
+        String b;
+        String c;
+        String v;
     }
 }
